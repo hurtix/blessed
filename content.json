@@ -1,3 +1,11 @@
 {
-  "custom-field": "hola"
+  "custom-field": "hola",
+  "custom-object": {
+    "custom-line": "mundo"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "testing"
+    }
+  ]
 }
